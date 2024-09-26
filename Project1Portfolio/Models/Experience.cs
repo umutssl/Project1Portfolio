@@ -18,5 +18,6 @@ namespace Project1Portfolio.Models
         public string CompanyName { get; set; }
         public string WorkDate { get; set; }
         public string Description { get; set; }
+        public string Başlık { get; set; }
     }
 }
